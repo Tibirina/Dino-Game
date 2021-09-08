@@ -1,5 +1,5 @@
 const dino = document.querySelector('.dino');
-const background = document.querySelector('background');
+const background = document.querySelector('.background');
 let isJumping = false;
 let isGameOver = false;
 let position = 0;
